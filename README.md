@@ -1,6 +1,6 @@
 ## WELCOME, i'm Vinicius Cardoso 💻 
 
-- 🔭 Computer science student
+- 🔭 Computer Science student
 - 🌱 Learning javascript
 - 🖥️ Future Back-End developer
 - 🔒 CyberSecurity enthusiast
