@@ -21,6 +21,10 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
+  <br><br>
+  
+  ![Snake animation](https://github.com/ViniScardoso/ViniScardoso/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 ##
