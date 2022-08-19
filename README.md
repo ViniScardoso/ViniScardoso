@@ -1,7 +1,7 @@
 ## WELCOME, i'm Vinicius Cardoso 💻 
 
 - 🔭 Computer Science student
-- 🌱 Learning Java
+- 🌱 Learning Java and Python
 - 🖥️ Future Back-End developer
 - 🔒 CyberSecurity enthusiastic
 - 💬 Email: vinicius.cardoso@sptech.school || vinisilvacardoso04@gmail.com
