@@ -2,7 +2,7 @@
 
 - 🔭 Computer Science student
 - 🌱 Learning Java and Python
-- 🖥️ Future Back-End developer
+- 🖥️ Data Analytics
 - 💬 Email: vinicius.cardoso@sptech.school || vinisilvacardoso04@gmail.com
 - 🎸 Bass Player
 
